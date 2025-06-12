@@ -26,7 +26,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: '191.96.231.2',
     port: 10578,
-    username: 'BOT_BY_AMAN'
+    username: 'SUBSCRIBE'
   });
 
   const PASSWORD = 'Mishra@123';
