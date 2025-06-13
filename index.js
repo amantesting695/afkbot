@@ -24,8 +24,8 @@ let firstJoin = true;
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: '191.96.231.2',
-    port: 10578,
+    host: 'bhrata.aternos.me',
+    port: 14495,
     username: 'SUBSCRIBE'
   });
 
